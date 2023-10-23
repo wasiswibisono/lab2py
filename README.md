@@ -5,6 +5,8 @@
 + <p> upload ss an di github <p>
 + <p>lalu salin link lalu kirimkan ke tugas latihan 2 B.pemograman<p>
 
++ <h1>Latihan 1</h1>
+
 ![gambar](dokumentasi/1.png)
 
 + <h1>Latihan 2</h1>
