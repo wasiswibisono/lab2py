@@ -4,3 +4,5 @@
 + <p>github comit -m "deskripsi file"<p>
 + <p> upload ss an di github <p>
 + <p>lalu salin link lalu kirimkan ke tugas latihan 2 B.pemograman<p>
+
+![gambar](dokumentasi/latihan1.png.png)
