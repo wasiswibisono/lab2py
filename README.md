@@ -5,4 +5,12 @@
 + <p> upload ss an di github <p>
 + <p>lalu salin link lalu kirimkan ke tugas latihan 2 B.pemograman<p>
 
-![gambar](dokumentasi/latihan1.png.png)
+![gambar](dokumentasi/1.png)
+
++ <h1>Latihan 2</h1>
+
+![gambar](dokumentasi/2.png)
+
++ <h1>Latihan 3</h1>
+
+![gambar](dokumentasi/3.png)
